@@ -7,7 +7,7 @@ This repository contains a machine learning model that predicts if water is pota
 The goal of this project is to develop a model that can predict if water is potable or not based on features such as ph, Hardness, Conductivity, and other relevant attributes. The dataset used for training and testing the model was carefully preprocessed to ensure the highest possible accuracy.
 
 ### Key Features:
-- **Classification**: The model uses Linear Regression to find the best-fit line that predicts if water is potable or not based on input features.
+- **Classification**: The model uses Gradient Boosting to find if water is potable or not based on input features.
 - **Accuracy**: Achieved **75% accuracy** on the training data and **64% accuracy** on the test data.
 
 ## Dataset
