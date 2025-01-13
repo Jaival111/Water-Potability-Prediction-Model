@@ -1,6 +1,6 @@
 # Water-Potability-Prediction-Model
 
-This repository contains a machine learning model that predicts if water is potable or not based on various input features. The model was built using **Claasifiaction** and trained on a dataset of water potability data. It has achieved **75% accuracy** on the training set and **64% accuracy** on the test set.
+This repository contains a machine learning model that predicts if water is potable or not based on various input features. The model was built using **Classifiaction** and trained on a dataset of water potability data. It has achieved **75% accuracy** on the training set and **64% accuracy** on the test set.
 
 ## Project Overview
 
