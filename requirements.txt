@@ -1,0 +1,18 @@
+# For data manipulation and analysis
+pandas==1.5.3
+
+# For numerical operations
+numpy==1.24.0
+
+# For machine learning algorithms
+scikit-learn==1.2.2
+
+# For data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# For model persistence (optional, if you plan to save and load models)
+joblib==1.2.0
+
+# For handling environment and dependencies
+pip==23.0.1
